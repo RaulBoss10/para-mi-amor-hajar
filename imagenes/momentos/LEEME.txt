@@ -1,0 +1,13 @@
+FOTOS DE HAJAR Y RAUL
+
+Mete aquí las fotos que quieras que aparezcan al final de la página.
+
+Nombres admitidos actualmente:
+1.jpg
+2.jpg
+3.jpg
+4.jpg
+5.jpg
+
+Puedes usar JPG, pero si tus fotos están en PNG, dímelo y lo adaptamos.
+No hace falta modificar el HTML: el proyecto detecta automáticamente las fotos que existan.
